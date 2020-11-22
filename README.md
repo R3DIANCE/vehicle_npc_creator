@@ -1,4 +1,4 @@
-# NPC Vehicle Creator [AltV/JS] [Optionnel/Dépendance]
+# NPC Vehicle Creator [AltV/JS] [Dépendance]
 
 
 > #### Création de véhicules pour PNJ
