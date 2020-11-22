@@ -8,3 +8,5 @@ alt.on(
     new VehicleCreator(model, x, y, z, rx, ry, rz, dim, color, pedDriver, index)
   }
 )
+
+alt.logWarning('NPC Vehicle Creator: loaded...')
